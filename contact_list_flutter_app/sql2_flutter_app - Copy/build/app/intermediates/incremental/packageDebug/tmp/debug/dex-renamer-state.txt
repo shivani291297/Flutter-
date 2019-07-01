@@ -1,0 +1,4 @@
+#Fri Jun 28 15:58:48 IST 2019
+base.0=C\:\\Users\\Avis\\Desktop\\flutter project\\contact_list_flutter_app\\sql2_flutter_app - Copy\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

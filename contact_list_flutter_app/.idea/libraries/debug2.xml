@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="debug2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sql2_flutter_app - Copy/build/app/intermediates/transforms/dexBuilder/debug/2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sql2_flutter_app - Copy/build/app/intermediates/transforms/dexBuilder/debug/3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sql2_flutter_app - Copy/build/app/intermediates/transforms/dexBuilder/debug/6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sql2_flutter_app - Copy/build/app/intermediates/transforms/dexBuilder/debug/5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sql2_flutter_app - Copy/build/app/intermediates/transforms/dexBuilder/debug/4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sql2_flutter_app - Copy/build/app/intermediates/transforms/dexBuilder/debug/7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
